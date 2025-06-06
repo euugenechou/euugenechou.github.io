@@ -7,10 +7,10 @@ lang = 'en'
 
 I'm a PhD student (now candidate) at UC Santa Cruz working in the
 [CRSS](https://crss.us/index.html) and advised by [Professor Darrell
-Long](https://darrelllong.github.io) and [Professor Andrew
+Long](https://darrelllong.github.io) and [Professor Andi
 Quinn](https://arquinn.github.io).
 
-My [research](https://crss.us/person/eugenechou.html) aims to provide a
+My [research](https://crss.ucsc.edu/person/eugenechou.html) aims to provide a
 portable, non-intrusive, and efficient secure deletion solution for existing
 systems and applications. My technical interests mostly lie in systems
 programming, but I'm also a fan of programming language theory and reverse
