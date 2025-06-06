@@ -6,7 +6,7 @@ lang = 'en'
 +++
 
 I'm a PhD student (now candidate) at UC Santa Cruz working in the
-[CRSS](https://crss.us/index.html) and advised by [Professor Darrell
+[CRSS](https://crss.ucsc.edu) and advised by [Professor Darrell
 Long](https://darrelllong.github.io) and [Professor Andi
 Quinn](https://arquinn.github.io).
 
