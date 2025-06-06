@@ -1,0 +1,17 @@
+publications = []
+# name = "hehe"
+# desc = "hehe"
+# tags = ["", ""]
+# links = [
+#   { name = "hello", url = "" },
+#   { name = "", url = "" },
+# ]
+
+# [[publications]]
+# name = "hehe"
+# desc = "hehe"
+# tags = ["", ""]
+# links = [
+#   { name = "", url = "" },
+#   { name = "", url = "" },
+# ]
